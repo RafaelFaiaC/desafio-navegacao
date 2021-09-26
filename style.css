@@ -1,0 +1,10 @@
+body{
+    color: white;
+    background-color: rgb(50, 50, 50);
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+p.menu{
+    margin: 0px;
+}
